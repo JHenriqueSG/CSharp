@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinoSinqia1504", "TreinoSinqia1504\TreinoSinqia1504.csproj", "{0A03ACCA-77E4-4E03-BE17-9AF9E73E7BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseNegocio", "ClasseNegocio\ClasseNegocio.csproj", "{E87FF115-399A-4177-BB7C-B8DE90227335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A03ACCA-77E4-4E03-BE17-9AF9E73E7BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A03ACCA-77E4-4E03-BE17-9AF9E73E7BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A03ACCA-77E4-4E03-BE17-9AF9E73E7BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A03ACCA-77E4-4E03-BE17-9AF9E73E7BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87FF115-399A-4177-BB7C-B8DE90227335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87FF115-399A-4177-BB7C-B8DE90227335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87FF115-399A-4177-BB7C-B8DE90227335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87FF115-399A-4177-BB7C-B8DE90227335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394C1099-F84B-4B8F-8ABC-92E9375AA0F0}
+	EndGlobalSection
+EndGlobal
